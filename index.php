@@ -24,7 +24,7 @@ div.simpleTabsContent.currentTab { display:block; }
 </style>
 </head>
 <body>
-<h2>A service announcement stream for x</h2>
+<h2>Announcement stream for x</h2>
 <p><a href="http://twitter.com/x">For user @x</a> 
 <hr/>
 
