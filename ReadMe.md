@@ -13,4 +13,4 @@
 > go.
 
 
-A working example can be found at <a href="http://TweetMon.TheChels.co.uk">TweetMon.TheChels.co.uk</a>
+A working example can be found at <a href="http://www.thechels.co.uk/tweetmon/">http://www.thechels.co.uk/tweetmon/</a>
