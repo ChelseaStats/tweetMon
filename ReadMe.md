@@ -13,4 +13,6 @@
 > go.
 
 
-A working example can be found at <a href="http://www.thechels.co.uk/tweetmon/">http://www.thechels.co.uk/tweetmon/</a>
+A working example can be found at 
++ <a href="http://www.thechels.co.uk/news/stats/">Statistics News</a>
++ <a href="http://www.thechels.co.uk/news/breaking/">Breaking News</a>
