@@ -6,13 +6,8 @@
 
 > Just create a list of the accounts that announce the things you care about. 
 
-> add you api and app key/secrets
+> add your api and app key/secrets
 
 > make sure folder is writeable for caching the list (reduces api calls).
 
 > go.
-
-
-A working example can be found at 
-+ <a href="http://www.thechels.co.uk/news/stats/">Statistics News</a>
-+ <a href="http://www.thechels.co.uk/news/breaking/">Breaking News</a>
